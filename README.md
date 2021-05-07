@@ -1,6 +1,6 @@
 <p align="center">
-  <img alt="Local" src="https://i.imgur.com/nQ8ENj9.png" width="50%">
-  <img alt="Twitter" src="https://i.imgur.com/6eOdSqq.png" width="50%">
+  <img alt="Local" src="https://i.imgur.com/nQ8ENj9.png" width="30%">
+  <img alt="Twitter" src="https://i.imgur.com/6eOdSqq.png" width="30%">
   
 </p>
 
