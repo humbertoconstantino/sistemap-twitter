@@ -1,0 +1,27 @@
+$default-color: #2daae1;
+.example-spacer {
+    flex: 1 1 auto;
+  }
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+  mat-toolbar{
+    max-width: 500px;
+    background-color: $default-color;
+    color:white;
+    font-family: 'Times New Roman', Times, serif;
+  }
+
+  .teste{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 500px;
+  }
+
+
+  
+}

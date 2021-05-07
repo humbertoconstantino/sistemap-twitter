@@ -1,0 +1,30 @@
+<h1>Monitorar</h1>
+<form  class="input-user-form">
+        <mat-form-field class="example-full-width">
+        <input [(ngModel)]="buscar" name="search-bar" matInput placeholder="Ex. Sistemap">
+    </mat-form-field>
+    <button (click)="showTweets()" mat-mini-fab  aria-label="Example icon button with a menu icon">
+        <mat-icon><span class="material-icons-outlined">
+                search
+            </span></mat-icon>
+    </button>
+</form>
+<div class="container-card">
+    <mat-card *ngFor="let tweet of user.tweets">
+        <mat-card-header>
+            <img src="{{user.profile_image_url}}" mat-card-avatar class="example-header-image">
+            <mat-card-title>{{ user.name }}</mat-card-title>
+            <mat-card-subtitle>@{{ user.screen_name }}</mat-card-subtitle>
+        </mat-card-header>
+        
+        <mat-card-content>
+            <h3>
+                {{ tweet.text }}
+            </h3>
+        </mat-card-content>
+        <mat-card-actions>
+            <button  mat-button>Like</button>
+            <button mat-button>Retweet</button>
+        </mat-card-actions>
+    </mat-card>
+</div>

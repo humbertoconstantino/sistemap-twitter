@@ -1,0 +1,17 @@
+<div class="container">
+    <mat-toolbar color="primary" class="mat-elevation-z3">
+        <a routerLink="/myProfile"><img src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-13.png"
+                alt=""></a>
+        <span class="example-spacer"></span>
+        <button mat-button [matMenuTriggerFor]="beforeMenu">
+            <mat-icon aria-hidden="false" aria-label="Example home icon">menu</mat-icon>
+        </button>
+        <mat-menu #beforeMenu="matMenu" xPosition="before">
+            <button mat-menu-item routerLink="myProfile">Meu Perfil</button>
+            <button mat-menu-item routerLink="findId">Monitorar Conta</button>
+        </mat-menu>
+    </mat-toolbar>
+    <div class="teste">
+        <router-outlet></router-outlet>
+    </div>
+</div>
