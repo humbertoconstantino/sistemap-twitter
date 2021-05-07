@@ -12,8 +12,9 @@
 - Angular Material
 - scss
 ## Instruções Obrigatórias para o funcionamento 
-- Para startar o servidor que esta conectando com API oficial do Twitter, abra a pasta backend-twitteroficial e dê um node server
-- Para startar o servidor local, abra a pasta backend-json-server e dê um #npm start# no terminal
+- É nescessário startar o servidor que vocês me mandaram via email que está  conectando com API oficial do Twitter.
+
+
 
 ## Melhorias:
 
