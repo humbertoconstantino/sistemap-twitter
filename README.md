@@ -1,9 +1,10 @@
 <p align="center">
-<h4>Vídeo funcionando <a>https://www.youtube.com/watch?v=MR1s8gDAj-s</a></h4>
+
   <img alt="Local" src="https://i.imgur.com/nQ8ENj9.png" width="30%">
   <img alt="Twitter" src="https://i.imgur.com/6eOdSqq.png" width="30%">
   
 </p>
+<h4>Vídeo funcionando <a>https://www.youtube.com/watch?v=MR1s8gDAj-s</a></h4>
 
 # TweetWatcher
 
