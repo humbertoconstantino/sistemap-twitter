@@ -1,4 +1,5 @@
 <p align="center">
+<h4>Vídeo funcionando <a>https://www.youtube.com/watch?v=MR1s8gDAj-s</a></h4>
   <img alt="Local" src="https://i.imgur.com/nQ8ENj9.png" width="30%">
   <img alt="Twitter" src="https://i.imgur.com/6eOdSqq.png" width="30%">
   
@@ -9,7 +10,7 @@
 - Angular v11
 - Angular Material
 - scss
-## Instruções Obrigatórias para o funcionamento
+## Instruções Obrigatórias para o funcionamento 
 - Para startar o servidor que esta conectando com API oficial do Twitter, abra a pasta backend-twitteroficial e dê um node server
 - Para startar o servidor local, abra a pasta backend-json-server e dê um #npm start# no terminal
 
