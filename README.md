@@ -4,7 +4,7 @@
   <img alt="Twitter" src="https://i.imgur.com/6eOdSqq.png" width="30%">
   
 </p>
-<a href-"https://www.youtube.com/watch?v=MR1s8gDAj-s">Vídeo funcionando</a>
+<a href-"https://www.youtube.com/watch?v=MR1s8gDAj-s">Vídeo funcionando https://www.youtube.com/watch?v=MR1s8gDAj-s</a>
 
 # TweetWatcher
 
