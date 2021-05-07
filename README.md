@@ -13,6 +13,10 @@
 - scss
 ## Instruções Obrigatórias para o funcionamento 
 - É nescessário startar o servidor que vocês me mandaram via email que está  conectando com API oficial do Twitter.
+-  consumer_key: "x10BiRU3R5jDgLN5TSx33WBum",
+   consumer_secret: "myKFgF7dw8v3KAZPiNBA3vFg756oJrRzjMzzLXrQgDQlgBpTx6",
+   access_token: "1388501091394990081-HJlAMBlvopeRhNODH4CrtFubWu41sS",
+   access_token_secret: "Ccqe2L0UyTZs8WBA6Ob5OrNgzqUmhnUNxvGD1ST0fbHML",
 
 
 
